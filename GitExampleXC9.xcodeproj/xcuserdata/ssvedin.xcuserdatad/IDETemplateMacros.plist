@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>FILEHEADER</key>
-	<string>// 
-// ___FILENAME___
+	<string> // ___FILENAME___
 // ___PACKAGENAME___
 // 
 // Created by Sabrina Svedin on ___DATE___.
