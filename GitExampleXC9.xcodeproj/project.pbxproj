@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		6542297C20E3F7D1001869CA /* TestingCustomHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6542297B20E3F7D1001869CA /* TestingCustomHeader.swift */; };
+		6542297E20E3F9C8001869CA /* TestingCustomerHeader2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6542297D20E3F9C8001869CA /* TestingCustomerHeader2.swift */; };
+		6542298020E3FAA8001869CA /* TestingCustomHeader3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6542297F20E3FAA8001869CA /* TestingCustomHeader3.swift */; };
 		65B1C51A20E2DB8700543B29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B1C51920E2DB8700543B29 /* AppDelegate.swift */; };
 		65B1C51C20E2DB8700543B29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B1C51B20E2DB8700543B29 /* ViewController.swift */; };
 		65B1C51E20E2DB8800543B29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65B1C51D20E2DB8800543B29 /* Assets.xcassets */; };
@@ -16,6 +18,8 @@
 
 /* Begin PBXFileReference section */
 		6542297B20E3F7D1001869CA /* TestingCustomHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingCustomHeader.swift; sourceTree = "<group>"; };
+		6542297D20E3F9C8001869CA /* TestingCustomerHeader2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingCustomerHeader2.swift; sourceTree = "<group>"; };
+		6542297F20E3FAA8001869CA /* TestingCustomHeader3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingCustomHeader3.swift; sourceTree = "<group>"; };
 		65B1C51620E2DB8700543B29 /* GitExampleXC9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitExampleXC9.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65B1C51920E2DB8700543B29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65B1C51B20E2DB8700543B29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +61,8 @@
 			children = (
 				65B1C51920E2DB8700543B29 /* AppDelegate.swift */,
 				6542297B20E3F7D1001869CA /* TestingCustomHeader.swift */,
+				6542297D20E3F9C8001869CA /* TestingCustomerHeader2.swift */,
+				6542297F20E3FAA8001869CA /* TestingCustomHeader3.swift */,
 				65B1C51B20E2DB8700543B29 /* ViewController.swift */,
 				65B1C51D20E2DB8800543B29 /* Assets.xcassets */,
 				65B1C51F20E2DB8800543B29 /* Main.storyboard */,
@@ -138,6 +144,8 @@
 			files = (
 				65B1C51C20E2DB8700543B29 /* ViewController.swift in Sources */,
 				6542297C20E3F7D1001869CA /* TestingCustomHeader.swift in Sources */,
+				6542297E20E3F9C8001869CA /* TestingCustomerHeader2.swift in Sources */,
+				6542298020E3FAA8001869CA /* TestingCustomHeader3.swift in Sources */,
 				65B1C51A20E2DB8700543B29 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
